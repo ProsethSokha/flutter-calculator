@@ -136,6 +136,11 @@ class _CalculatorHomePageState extends State<CalculatorHomePage> {
                 calculatorButton('+'),
               ],
             ),
+            Row(
+              children: [
+                calculatorButton('%'),
+              ],
+            ),
           ],
         ),
       ),
